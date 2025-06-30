@@ -17,3 +17,15 @@ Aqui você encontrará:
 - 💡 **Explicações teóricas com exemplos**
 
 ---
+
+## 🧠 Tópicos Abordados
+
+- Algoritmos: definição, representação e análise
+- Complexidade de algoritmos (tempo e espaço)
+- Estruturas de controle e operadores
+- Vetores, matrizes e strings
+- Estruturas de dados: conceitos iniciais
+- Recursividade
+- Tipos abstratos de dados (introdução)
+
+---
