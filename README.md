@@ -5,7 +5,7 @@ Este espaço reúne anotações, resumos e conteúdos teóricos fundamentais par
 
 > 📍 Universidade Federal de Alfenas – UNIFAL  
 > 👩‍🎓 Aluna: Letícia Santos Alves  
-> 🗂️ Repositório: [github.com/LuthorW](https://github.com/LuthorW/AEDs_I_Teoria)
+> 🗂️ Repositório: [github.com/LuthorW](https://github.com/LuthorW/AEDs-I-Teoria)
 
 ---
 
